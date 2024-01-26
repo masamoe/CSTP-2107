@@ -1,0 +1,9 @@
+.ul {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+
+.ul * {
+  font-size: 25px;
+}
